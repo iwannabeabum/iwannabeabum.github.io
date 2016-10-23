@@ -1,0 +1,88 @@
+* {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+body {
+  margin: 10;
+  padding 0;
+  background-color: #FEF5CA;
+  font-family: "Comic Sans MS";
+}
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+hr {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-brand h1 {
+  color: #557c3e;
+  font-size: 1.75em;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 2px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin: 0;
+  line-height: .6;
+}
+
+.navbar-nav {
+  margin: 0 -15px 0 -15px;
+}
+
+#nav-list a {
+  color: #557c3e;
+  text-align: center;
+}
+
+#nav-list a:hover {
+  background: #D0D080;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #557c3e;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.container-fluid div {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+h2 {
+  color: #557c3e;
+}
+
+p {
+  padding: 10px;
+  margin: 5px;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.menu-item {
+  background-color: #E5D198;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.menu-item h3 {
+  font-size: 1.25em;
+  text-align: center;
+  margin: 3px;
+}
+
+.menu-item span {
+  margin: 0 0 0 5px;
+}
